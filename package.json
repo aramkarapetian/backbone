@@ -1,5 +1,5 @@
 {
-  "name": "backbone.mongodb",
+  "name": "backbone",
   "description": "A mongodb backend adapter for Backbone.js",
   "version": "0.0.1",
   "private": false,
