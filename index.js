@@ -1,1 +1,1 @@
-module.export = require('./lib/backbone');
+exports = module.exports = require('./lib/backbone');
